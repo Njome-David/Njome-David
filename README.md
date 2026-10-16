@@ -11,8 +11,8 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F4E79&width=500&lines=Computer+Engineering+Student;Junior+Full-Stack+Developer;Always+building+something...)
 
-3rd-year Computer Engineering student at **ENSPY Yaoundé**, passionate about building end-to-end solutions — from system design to deployment.
-Currently seeking an internship in software engineering.
+4th-year Computer Engineering student at **ENSPY Yaoundé**, Head of the project cell of the Computer Engineering club, passionate about building innovative solutions — from system design to deployment.
+Currently seeking an internship in Data/AI engineering.
 
 ---
 
