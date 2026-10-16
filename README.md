@@ -9,7 +9,7 @@
 ╚═╝  ╚═══╝ ╚════╝  ╚═════╝ ╚═╝     ╚═╝╚══════╝    ╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═════╝ 
 ```
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F4E79&width=500&lines=Computer+Engineering+Student;Full-Stack+Developer+/++Junior+Data+Scientist;Always+building+something...)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=1F4E79&width=500&lines=Computer+Engineering+Student;Full-Stack+Developer+/++Junior+Data+Scientist;Always+building+something...)
 
 4th-year Computer Engineering student at **ENSPY Yaoundé**, Head of the project cell of the Computer Engineering club, passionate about building innovative solutions — from system design to deployment.
 Currently seeking an internship in Data/AI engineering.
